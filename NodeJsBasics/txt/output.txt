@@ -1,0 +1,2 @@
+Dara read from input.txt: This is a sample text file which are going to read from NodeJs 
+Date created Wed Feb 22 2023 15:47:11 GMT-0700 (Mexican Pacific Standard Time)
